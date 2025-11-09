@@ -86,9 +86,6 @@ public class StatementPrinter {
         return result.toString();
     }
 
-    /**
-     * Exception thrown when a play has an unknown or unsupported type.
-     */
     public static class UnknownPlayTypeException extends RuntimeException {
         public UnknownPlayTypeException(String message) {
             super(message);
