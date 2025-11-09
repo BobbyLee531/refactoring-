@@ -1,3 +1,4 @@
+a7f883a Task 1.2 finished
 af43ead Task 1.1 code style finished
 ec5057e code style finished
 8517c68 Initial commit
