@@ -1,3 +1,9 @@
+e006ebf Task 2 final
+37aacc5 Task 2.4 updated
+602f7ee Task 2.3 updated
+daf8222 Task 2.2 updated
+b6c589c Task 2.1 updated
+a3ec8b7 log updated
 638a725 Task 2 finished
 a7f883a Task 1.2 finished
 af43ead Task 1.1 code style finished
