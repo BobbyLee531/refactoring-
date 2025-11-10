@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * This class generates a statement for a given invoice of performances.
- * 2.3
+ * 2.4
  */
 public class StatementPrinter {
 
